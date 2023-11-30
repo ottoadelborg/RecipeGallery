@@ -1,0 +1,45 @@
+.recipe--one-container {
+    font-family: 'Dosis', sans-serif;
+    height: 100vh;
+}
+
+.header--container {
+    display: flex;
+    flex-direction: row;
+    width: 700px;
+    border-radius: 10px 10px 10px 10px;
+    padding-top: 2rem;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.recipe--one-video {
+    height: 600px;
+    width: 800px;
+}
+
+.recipe--one-video-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2rem;
+}
+
+h1 {
+    display: flex;
+    padding-left: 2rem;
+}
+
+.ingredients {
+    display: flex;
+    word-wrap: break-word;
+    padding-left: 2rem;
+    font-size: 25px;
+}
+
+
+.header--text {
+    display: flex;
+    justify-content: center;
+    padding-top: 3rem;
+}

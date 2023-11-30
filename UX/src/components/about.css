@@ -1,0 +1,58 @@
+.about--page-container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    font-family: 'Dosis', sans-serif;
+}
+
+.info--container{
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    padding-top: 2rem;
+}
+
+.about--picture{
+    border-radius: 20px;
+}
+
+.about--text-container{
+    width: 800px;
+}
+
+.about--header-text {
+    display: flex;
+    justify-content: center;
+}
+
+.about--bread-text{
+    font-size: 25px;
+    padding-left: 1rem;
+    align-items: center;
+}
+
+.link--text{
+    font-size: 28px;
+    padding-left: 1rem;
+    padding-top: 2rem;
+    font-weight: bold;
+    align-items: center;
+}
+
+.about--link-button {
+    background-color: #5435BA;
+    color: white;
+    font-size: 18px;
+    width: 170px;
+    height: 70px;
+    border-radius: 15px;
+    border: 0;
+    cursor: pointer;
+    
+}
+
+.link--container {
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+}

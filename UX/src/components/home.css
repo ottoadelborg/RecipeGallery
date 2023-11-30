@@ -1,0 +1,68 @@
+.home--container {
+    display: flex;
+    flex-direction: column;
+}
+
+.header--logo {
+    display: flex;
+    flex-direction: row;
+    width: 700px;
+    border-radius: 10px 10px 10px 10px;
+    padding-top: 2rem;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.video--container {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+}
+.home--video {
+    padding-top: 5rem;
+    display: grid;
+    border-radius: 10px;
+    width: 600px;
+    flex-direction:column;
+    margin-right: 5rem;
+}
+
+.home--text {
+    font-family: 'Dosis', sans-serif;
+    padding-top: 5rem;
+    width: 700px;
+}
+
+.recipe--one {
+    width: 470px;
+    height: 330px;
+    border-radius: 15px;
+    margin-right: 2rem;
+}
+
+.recipe--two {
+    width: 470px;
+    height: 330px;
+    border-radius: 15px;
+    margin-right: 2rem;
+}
+
+.recipe--three {
+    width: 470px;
+    height: 330px;
+    border-radius: 15px;
+}
+
+.home--links--container {
+    display: flex;
+    padding-top: 8rem;
+    justify-content: center;
+}
+
+h1{ 
+    font-size: 35px;
+}
+
+.front--page-text{ 
+    font-size: 20px;
+}

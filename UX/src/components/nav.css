@@ -1,0 +1,23 @@
+.navbar--container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #5435BA;
+    height: 100px;
+    width: 100vw;
+    border-radius: 10px;
+}
+
+.navbar--links {
+    font-family: 'Dosis', sans-serif;
+    font-size: 18px;
+    background-color: #DCFFFD;
+    width: 100px;
+    height: 44px;
+    padding-top: 1.2rem;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 25px;
+    text-decoration: none;
+    margin: 2.2rem;
+}
